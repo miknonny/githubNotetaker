@@ -1,0 +1,1819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isLeapYear"
+			],
+			[
+				"conso",
+				"console.log(message);"
+			],
+			[
+				"activeVisitors",
+				"activeVisitorsRef"
+			],
+			[
+				"findUser",
+				"findByUsernameMiddleware"
+			],
+			[
+				"p",
+				"people.json"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"app",
+				"AppTemplate.js"
+			],
+			[
+				"rrc",
+				"rrc	render-component"
+			],
+			[
+				"rc",
+				"rcl	reactClass"
+			],
+			[
+				"cw",
+				"cwm	React: componentWillMount: fn() { ... }"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"templat",
+				"templateUrl"
+			],
+			[
+				"an",
+				"angular-route.min.js"
+			],
+			[
+				"angular",
+				"angular.route.min.js"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"killer",
+				"killerRabbit"
+			],
+			[
+				"white",
+				"whiteRabbit"
+			],
+			[
+				"avreage",
+				"averageScore"
+			],
+			[
+				"ion",
+				"ionic.bundle.js"
+			],
+			[
+				"j",
+				"ionic.js"
+			],
+			[
+				"min",
+				"ionic.min.js"
+			],
+			[
+				"ng-s",
+				"ng-show	AngularJS"
+			],
+			[
+				"toggle",
+				"toggleLeft"
+			],
+			[
+				"project",
+				"projectString"
+			],
+			[
+				"modal",
+				"module._resolveLookupPaths(request, parent);"
+			],
+			[
+				"ngre",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"H1",
+				"h1"
+			],
+			[
+				"ng",
+				"ng-app	AngularJS"
+			],
+			[
+				"nexus",
+				"nexusImages"
+			],
+			[
+				"superhero",
+				"superheroCtrl"
+			],
+			[
+				"v",
+				"views/"
+			],
+			[
+				"$oot",
+				"$rootScope"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"$rou",
+				"$routeProvider.when	AngularJS"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"consoe",
+				"console.log(message);"
+			],
+			[
+				"lo",
+				"console.log(message);"
+			],
+			[
+				"create",
+				"net.createServer();"
+			],
+			[
+				"parse",
+				"parseInt  (function)"
+			],
+			[
+				"set",
+				"setTimeout(function, milliseconds);"
+			],
+			[
+				"clear",
+				"clearInterval();"
+			],
+			[
+				"pa",
+				"passwd/"
+			],
+			[
+				"re",
+				"require  (function)"
+			],
+			[
+				"a",
+				"ac	appendChild"
+			],
+			[
+				"un",
+				"fs.unlink(path, callback);"
+			],
+			[
+				"node",
+				"node.http.createServer	Snippet: HTTP Create Server"
+			],
+			[
+				"fs",
+				"fs.unwatchFile(filename);"
+			],
+			[
+				"ng-re",
+				"ng-mouseover	AngularJS"
+			],
+			[
+				"post",
+				"postData"
+			],
+			[
+				"postD",
+				"postDataChunk"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"content",
+				"Content-Type"
+			],
+			[
+				"req",
+				"requestHandlers"
+			],
+			[
+				"pth",
+				"pathname"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"reso",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Dashboard.js",
+			"settings":
+			{
+				"buffer_size": 2678,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Badge.js",
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Profile.js",
+			"settings":
+			{
+				"buffer_size": 1452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Repositories.js",
+			"settings":
+			{
+				"buffer_size": 1802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Helper/WebView.js",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var React = require('react-native');\n// Now we can easily add this flexbox style to our views.\nvar {\n  View,\n  StyleSheet\n} = React;\n\nvar styles = StyleSheet.create({\n  seperator: {\n    height: 1,\n    backgroundColor: '#E4E4E4',\n    flex: 1,\n    marginLeft: 15\n  }\n});\n\nclass Seperator extends React.Component {\n  render () {\n    return (\n      <View style={styles.seperator}/>\n    )\n  }\n};\n\nmodule.exports = Seperator;",
+			"file": "Helper/Seperator.js",
+			"file_size": 362,
+			"file_write_time": 130813306780000000,
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nonnycode/Documents/lab/react-native/githubNotetaker/README.md",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nonnycode/Documents/lab/react-native/githubNotetaker/.gitignore",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var api = {\n  getBio (username) {\n    username = username.toLowerCase().trim();\n    var url = `https://api.github.com/users/${username}`;\n    return fetch(url).then((res) => res.json())\n  },\n  getRepos (username) {\n    username = username.toLowerCase().trim();\n    var url = `https://api.github.com/users/${username}/repos`\n    return fetch(url).then((res) => res.json());\n  },\n  getNotes (username) {\n    username = username.toLowerCase().trim();\n    var url = `https://gnotetaker.firebaseio.com/${username}.json`;\n    return fetch(url).then((res) => res.json());\n  },\n  addNote(username, note) {\n    username = username.toLowerCase().trim()\n    // .json enables the restAPI.\n    var url = `https://gnotetaker.firebaseio.com/${username}.json`;\n    return fetch(url, {\n      method: 'post',\n      body: JSON.stringify(note)\n    }).then((res) => res.json());\n  }\n};\n\nmodule.exports = api;",
+			"file": "/Users/nonnycode/Documents/lab/react-native/githubNotetaker/App/Utils/api.js",
+			"file_size": 853,
+			"file_write_time": 130813473220000000,
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Notes.js",
+			"settings":
+			{
+				"buffer_size": 2745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nonnycode/Documents/lab/react-native/githubNotetaker/index.ios.js",
+			"settings":
+			{
+				"buffer_size": 580,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Main.js",
+			"settings":
+			{
+				"buffer_size": 2995,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: React: this.refs."
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"Git: ",
+				"Git: Stash"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 284.0,
+		"history":
+		[
+			"sublime.packages_path()",
+			"sublime.packages_path",
+			"sublime",
+			"print(\"mike\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nonnycode/Documents/lab/react-native/githubNotetaker/App/Components/Notes.js",
+		"/Users/nonnycode/Documents/lab/react-native/githubNotetaker/App/Components/Helper/Seperator.js",
+		"/Users/nonnycode/Documents/lab/react-native/githubNotetaker/App/Utils/api.js",
+		"/Users/nonnycode/Documents/lab/react-native/githubNotetaker/index.ios.js",
+		"/Users/nonnycode/Documents/lab/react-week-excercises/todo-flux/README.md",
+		"/Users/nonnycode/Documents/lab/react-week-excercises/todo-flux/package.json",
+		"/Users/nonnycode/Documents/lab/react-week/day-3/subjects/1-firebase/index.js",
+		"/Users/nonnycode/introcs/data-types/IntOps.java",
+		"/Users/nonnycode/introcs/data-types/LeapYear.java",
+		"/Users/nonnycode/introcs/data-tyes/LeapYear.java",
+		"/Users/nonnycode/introcs/untitled.java",
+		"/Users/nonnycode/Documents/lab/react-week-excercises/todofire/app/ListContainer.js",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/webpack.config.js",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/public/dashboard.js",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/dashboard.js",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/dashboard.html",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/public/home.js",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/home.js",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/home.html",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/index.js",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/build.js",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/index.html",
+		"/Users/nonnycode/Documents/lab/react-week/webpack2/build.jd",
+		"/Users/nonnycode/Documents/lab/pictraffiq/models/index.js",
+		"/Users/nonnycode/Documents/lab/pictraffiq/.gitignore",
+		"/Users/nonnycode/Documents/lab/pictraffiq/routes/cams.js",
+		"/Users/nonnycode/Documents/lab/pictraffiq/routes/users.js",
+		"/Users/nonnycode/Documents/lab/pictraffiq/routes/index.js",
+		"/Users/nonnycode/Documents/lab/pictraffiq/routes/main.js",
+		"/Users/nonnycode/Documents/lab/pictraffiq/README.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Auth0/node-auth0-sample/Procfile",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/es6-features/classes.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/heroku/node-js-getting-started/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/heroku/node-js-getting-started/.env",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/heroku/node-js-getting-started/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/hackhall-src/routes/posts.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/hackhall-src/server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/hackhall-src/oauth-tut.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/hackhall-src/.env",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/express.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/express.test.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/readme.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/.gitignore",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/rest-api-express/request.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/routes/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/routes/tasks.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/views/layout.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/public/stylesheet/main.less",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/views/index.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/views/tasks_completed.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/views/task.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/todo_express/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/views/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/css/flatly-bootstrap.min.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/instagram_gallery/css/bootstrap-responsive.min.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch8/views/render.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch8/package.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch8/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch8/views/layout.jade",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-analytics/tutorial.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/dashboard.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/scripts/dashboard.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/webpack.config.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/scripts/analytics.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/firebase-practice/scripts/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react_rocks/react-count/examples/button/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react_rocks/react-count/examples/button/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/proexpressjs/ch4/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/ch2/cli-app/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/pro_expressjs/ch2/cli-app/bin/app_set.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/app.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/views/photos/index.ejs",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/filerename.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/views/photos/upload.ejs",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/photos.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/public/photos/62b434877537806e7ec8877937bc94d8.jpg",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/public/photos/b8f4253f2302a00439bba90bdc489092.jpg",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/public/stylesheets/style.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_app/routes/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/users.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/submit.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/routes/form.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/models/Photo_model.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/scripts/CommentBox.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/jsonServer.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/css/base.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/base.css",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/bin/www",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/photo_sharing/views/index.ejs",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/node_and_express_webdev/travel_express/.gitignore",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/node_and_express_webdev/travel_express/meadowlark.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/node_and_express_webdev/travel_express/README.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/Express/server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/comments.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/people.json",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/CommentBox/superagent.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/logger.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/cookieParser.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/bodyParser.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/connect.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConnectBuiltInMiddleware/node_modules/connect/History.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ConectBuiltInMiddleware",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/Connect/multiErrorHandler.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/Connect/error.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/NodeInAction/ErrorHandling/error.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Todo_react/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Todo_react/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Todo_react/scripts/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/Todo_react/scripts/TwoWay.js",
+		"/Users/nonnycode/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react docs/scripts/App.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react docs/scripts/index.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold/index.html",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold/server.js",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/README.md",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/.gitignore",
+		"/Users/nonnycode/Documents/lab/brainstorm.js/react scaffold copy/.jshintrc"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"WebView",
+			"makeBackground",
+			"toLowerCase",
+			"\n    ",
+			"'\n",
+			",\n",
+			"setState",
+			"password",
+			");\n",
+			"');\n",
+			"obj",
+			"}\n",
+			"errors",
+			"\n",
+			"collection",
+			"content",
+			"route",
+			"snapshot",
+			": ",
+			"\n",
+			"[",
+			"\n",
+			"fs",
+			"};",
+			"javascript",
+			"map",
+			"});",
+			"();\n",
+			");\n",
+			"prev",
+			"; ",
+			"novalidate",
+			"an",
+			"state",
+			"title",
+			"wind",
+			">\n",
+			"\n",
+			"abilities",
+			"customer",
+			"\"",
+			"$scope.bad = function () {\n		$scope.spice = 'bad';\n	}\n",
+			"{\n	\"name\": \"file-explorer\",\n	\"version\"; '0.0.1'\n	\"description\": \"A commandline file explorer\"\n}",
+			"	\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"db.collection"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Dashboard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1583,
+								1583
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 834.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Badge.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								913,
+								913
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 159.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Profile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1252,
+								1252
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Repositories.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Helper/WebView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Helper/Seperator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/nonnycode/Documents/lab/react-native/githubNotetaker/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/nonnycode/Documents/lab/react-native/githubNotetaker/.gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/nonnycode/Documents/lab/react-native/githubNotetaker/App/Utils/api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Notes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1326,
+								1326
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"history_list_is_closing": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/nonnycode/Documents/lab/react-native/githubNotetaker/index.ios.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1804,
+								1804
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 151.0
+	},
+	"project": "githubNotetaker.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"comments.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/lab/studyApp/studyApp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}

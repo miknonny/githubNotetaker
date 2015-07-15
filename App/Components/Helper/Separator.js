@@ -1,12 +1,12 @@
 var React = require('react-native');
-
+// Now we can easily add this flexbox style to our views.
 var {
   View,
   StyleSheet
 } = React;
 
 var styles = StyleSheet.create({
-  seperator: {
+  separator: {
     height: 1,
     backgroundColor: '#E4E4E4',
     flex: 1,
@@ -14,12 +14,12 @@ var styles = StyleSheet.create({
   }
 });
 
-class Seperator extends React.Component {
+class Separator extends React.Component {
   render () {
     return (
-      <View style={styles.seperator}/>
+      <View style={styles.separator}/>
     )
   }
 };
 
-module.exports = Seperator;
+module.exports = Separator;

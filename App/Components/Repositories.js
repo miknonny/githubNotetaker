@@ -1,6 +1,6 @@
 var React = require('react-native');
 var Badge = require('./Badge');
-var Seperator = require('./Helper/Seperator');
+var Seperator = require('./Helper/Separator');
 var Web_View = require('./Helper/WebView');
 
 var {
@@ -60,7 +60,7 @@ class Repositories extends React.Component {
             <Text style={styles.stars}>Stars: {repos[index].stargazers_count}</Text>
             {desc}
           </View>
-          <Seperator />
+          <Separator />
         </View>
       )
     })
